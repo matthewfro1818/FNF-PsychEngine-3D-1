@@ -3,14 +3,14 @@ title Setup - PECG
 cd ..
 
 echo Installing dependencies, please wait...
-haxelib install lime
-haxelib install openfl
-haxelib install flixel
-haxelib install flixel-addons
+haxelib install lime 8.1.2
+haxelib install openfl 9.3.3
+haxelib install flixel 4.11.0
+haxelib install flixel-addons 2.11.0
 haxelib install flixel-tools
-haxelib install flixel-ui
-haxelib install actuate
-haxelib install hxCodec
+haxelib install flixel-ui 2.6.1
+haxelib install actuate 1.9.0 
+haxelib install hxCodec 2.5.1          
 haxelib install hscript
 haxelib install away3d
 haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit
