@@ -7,14 +7,14 @@ echo Makking the main haxelib and setuping folder in same time..
 mkdir ~/haxelib && haxelib setup ~/haxelib
 echo Installing dependencies...
 echo This might take a few moments depending on your internet speed.
-haxelib install lime 8.1.2
-haxelib install openfl 9.3.3
-haxelib install flixel 4.11.0
-haxelib install flixel-addons 2.11.0
+haxelib install lime
+haxelib install openfl
+haxelib install flixel
+haxelib install flixel-addons
 haxelib install flixel-tools
-haxelib install flixel-ui 2.6.1
-haxelib install actuate 1.9.0 
-haxelib install hxCodec 2.5.1          
+haxelib install flixel-ui
+haxelib install actuate
+haxelib install hxCodec
 haxelib install hscript
 haxelib install away3d
 haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit
